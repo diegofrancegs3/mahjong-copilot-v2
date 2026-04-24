@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "MahjongFont";
-  src: url("/MahJongDiego-v3.ttf") format("truetype");
+  src: url("./MahJongDiego-v3.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
